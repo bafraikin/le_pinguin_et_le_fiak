@@ -1,6 +1,8 @@
 # La story du pingouin qui sniffait par le fiac
 
-![https://markdown-it.github.io/](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLRd2DFc9mlavmW0L-er0LAqNZlmP_1Y5yhQ&usqp=CAU)
+![pinguin dla street](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRLRd2DFc9mlavmW0L-er0LAqNZlmP_1Y5yhQ&usqp=CAU)
+
+[lien pour savoir comment ecrire et mettre en forme](https://markdown-it.github.io/)
 
 C'est l'histoire d'un pinguin qui crechait dans un des tiecs de la banquise.
 
