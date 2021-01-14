@@ -20,7 +20,7 @@ Ouai il pouvait s'allonger, mais c'etait trop la tehon. Il voulait pas que sa st
 Donc ce bouffon passait son temps à marcher en rond. 
 
 ...
-*reste du plot à ecrire
+*reste du plot à ecrire*
 ...
 
 
